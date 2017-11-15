@@ -141,7 +141,7 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.ZhyTech.Rotatory
+    Android: com.ZhyTech.RotatoryBeta
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -217,8 +217,8 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/Utente/Documents/GitHub/game-development/Rotatory/user.keystore
+  AndroidKeyaliasName: xxlsmall
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   androidEnableBanner: 1
